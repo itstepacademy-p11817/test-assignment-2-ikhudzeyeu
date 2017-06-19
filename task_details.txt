@@ -1,0 +1,3 @@
+1. Create .c file with main function
+2. Implement multiline output of something
+3.* Although you can implement an input of integer or c-style string and then output it as well
